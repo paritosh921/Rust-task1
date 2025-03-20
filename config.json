@@ -1,0 +1,10 @@
+{
+    "input_dir": "./dataset/wider_face/",
+    "output_dir": "./output/faces",
+    "model_path": "./models/yolo11n.torchscript",
+    "min_confidence": 0.5,
+    "target_size": 224,
+    "padding_factor": 1.5,
+    "max_faces": 10000,
+    "batch_size": 16
+  }
